@@ -18,7 +18,7 @@ OpenAI API key (Get one here)
 
 Step 1: Clone the Repository
 bashgit clone (https://github.com/hiMolika/flashcard_generator)
-cd flashcard-generator
+cd flashcard_generator
 Step 2: Install Dependencies
 bashpip install -r requirements.txt
 Step 3: Run the Application
