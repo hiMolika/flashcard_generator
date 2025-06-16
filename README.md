@@ -17,13 +17,12 @@ This project is designed to automatically generate **structured flashcards** fro
 - **Python** (Core development)
 - **Transformers** (Hugging Face LLM API)
 - **Streamlit** (Web UI)
-- **PyMuPDF** (PDF text extraction)
-- **Pandas** (Data export)
+- **PyPDF2** (PDF text extraction)
 
 ---
 
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/LLM-Flashcard-Generator.git
-cd LLM-Flashcard-Generator
+git clone https://github.com/hiMolika/flashcard_generator
+cd flashcard_generator

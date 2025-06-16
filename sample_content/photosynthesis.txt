@@ -1,0 +1,23 @@
+# Photosynthesis Overview
+
+Photosynthesis is the process by which plants convert light energy into chemical energy. This process occurs in chloroplasts and involves two main stages:
+
+## Light-Dependent Reactions
+- Occur in the thylakoids
+- Chlorophyll absorbs light energy
+- Water molecules are split, releasing oxygen
+- ATP and NADPH are produced
+
+## Calvin Cycle (Light-Independent Reactions)
+- Occurs in the stroma
+- Uses ATP and NADPH from light reactions
+- Converts CO2 into glucose
+- Does not directly require light
+
+## Factors Affecting Photosynthesis
+1. Light intensity
+2. Carbon dioxide concentration
+3. Temperature
+4. Water availability
+
+The overall equation: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2
