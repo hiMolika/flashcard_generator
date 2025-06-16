@@ -1,4 +1,4 @@
-🎓 LLM-Powered Flashcard Generator
+# 🎓 LLM-Powered Flashcard Generator
 An intelligent flashcard generation tool that converts educational content into effective question-answer flashcards using Large Language Models (LLMs).
 🚀 Features
 
@@ -17,8 +17,8 @@ Python 3.8 or higher
 OpenAI API key (Get one here)
 
 Step 1: Clone the Repository
-bashgit clone https://github.com/yourusername/llm-flashcard-generator.git
-cd llm-flashcard-generator
+bashgit clone (https://github.com/hiMolika/flashcard_generator)
+cd flashcard-generator
 Step 2: Install Dependencies
 bashpip install -r requirements.txt
 Step 3: Run the Application
@@ -32,7 +32,7 @@ The key is required for flashcard generation
 
 2. Configure Settings
 
-Select your subject area (Biology, History, CS, etc.)
+Select your subject area (Biology, History, Maths, etc.)
 Choose the number of flashcards to generate (10-25)
 
 3. Input Content
@@ -57,7 +57,7 @@ Wait for the AI to analyze your content and create flashcards
 
 Card View: Browse flashcards individually with expandable answers
 List View: See all flashcards in a scrollable list
-Export Options: Download in CSV, JSON, or Anki format
+Export Options: Download in CSV, JSON
 
 📊 Sample Output
 Question: What is photosynthesis?
